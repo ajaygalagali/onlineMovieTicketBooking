@@ -1,1 +1,6 @@
-# onlineMovieTicketBooking
+- Download XAMPP Control Panel : https://www.apachefriends.org/download.html
+- Install XAMPP in C Drive
+- Paste AstroCinemasCopy folder in C:\xampp\htdocs
+- Download database backup "reserveticket.sql"
+- Open phpMyAdmin Homepage, Import database using "reserveticket.sql"
+- To access project, go to http://localhost/AstroCinemasCopy/index.php
