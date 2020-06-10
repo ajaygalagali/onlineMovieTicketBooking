@@ -2,5 +2,7 @@
 - Install XAMPP in C Drive
 - Paste AstroCinemasCopy folder in C:\xampp\htdocs
 - Download database backup "reserveticket.sql"
+- Start MySQL in XAMPP Control Panel
 - Open phpMyAdmin Homepage, Import database using "reserveticket.sql"
+- Start Apache server in XAMPP Control Panel
 - To access project, go to http://localhost/AstroCinemasCopy/index.php
